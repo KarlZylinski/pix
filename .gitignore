@@ -1,0 +1,4 @@
+Release/
+*.opensdf
+*.sdf
+Debug/
